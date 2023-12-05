@@ -1,12 +1,14 @@
 <h1>Hi, I'm Collin! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
+- <b>Risk, Threats and Vulnerabilities</b>
+  - [Risk Management Using Quantitative Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Threat Modelling With MITRE ATT&CK Navigator](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Vulnerability Management With OpenVAS](https://github.com/joshmadakor1/Algorithms-Practice)
+  
 - <b>Cryptography</b>
   - [Symmetric and Asymmetric Encryption with OpenSSL and OpenPGP](https://github.com/joshmadakor1/Algorithms-Practice)
   - [DiffieHellman Key Exhange](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Identity and Access Management</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 <h2>📜 Certifications:</h2>
 
