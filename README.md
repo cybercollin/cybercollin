@@ -13,7 +13,7 @@
 
 <h2>📜 Certifications:</h2>
 
-- [Google Cybersecurity Professional Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cybersecurity Professional Certificate](https://coursera.org/share/ba1b2c907ed9ac8241cab99c38f86006)
 
 <h2> 🤳 Connect with me:</h2>
 
