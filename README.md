@@ -5,7 +5,7 @@
 - <b>Risk, Threats and Vulnerabilities</b>
   - [Risk Management Using Quantitative Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Threat Modelling With MITRE ATT&CK Navigator](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Vulnerability Management With OpenVAS](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Vulnerability Management With OpenVAS](https://github.com/cybercollin/VulnMgmtLab)
   
 - <b>Cryptography</b>
   - [Symmetric and Asymmetric Encryption with OpenSSL and OpenPGP](https://github.com/joshmadakor1/Algorithms-Practice)
