@@ -9,7 +9,7 @@
   
 - <b>Cryptography</b>
   - [Symmetric and Asymmetric Encryption with OpenSSL and OpenPGP](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [DiffieHellman Key Exhange](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Hashing and Public Key Infrastructure](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📜 Certifications:</h2>
 
