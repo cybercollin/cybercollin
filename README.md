@@ -1,4 +1,4 @@
-<h1>Hi, I'm Collin! <br/><a href="https://www.linkedin.com/in/collinlittle/">Cybersecurity Professional</a>
+<h1>Hi, I'm Collin! <br/><a href="https://www.linkedin.com/in/cybercollinlittle/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
