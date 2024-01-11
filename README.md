@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Risk, Threats and Vulnerabilities</b>
-  - [Risk Management Using Quantitative Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Risk Management Using Quantitative Analysis](https://github.com/cybercollin/RiskManagementQuantitativeAnalysis)
   - [Threat Modelling With MITRE ATT&CK Navigator](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Vulnerability Management With OpenVAS](https://github.com/cybercollin/VulnMgmtLab)
   
