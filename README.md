@@ -4,12 +4,12 @@
 
 - <b>Risk, Threats and Vulnerabilities</b>
   - [Risk Management Using Quantitative Analysis](https://github.com/cybercollin/RiskManagementQuantitativeAnalysis)
-  - [Threat Modelling With MITRE ATT&CK Navigator](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Threat Modelling With MITRE ATT&CK Navigator](https://github.com/cybercollin/UnderConstruction)
   - [Vulnerability Management With OpenVAS](https://github.com/cybercollin/VulnMgmtLab)
   
 - <b>Cryptography</b>
-  - [Symmetric and Asymmetric Encryption with OpenSSL and OpenPGP](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Hashing and Public Key Infrastructure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Symmetric and Asymmetric Encryption with OpenSSL and OpenPGP](https://github.com/cybercollin/UnderConstruction)
+  - [Hashing and Public Key Infrastructure](https://github.com/cybercollin/UnderConstruction)
 
 <h2>📜 Certifications:</h2>
 
