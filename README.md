@@ -9,6 +9,7 @@
   
 - <b>Google Cybersecurity Professional Certificate </b>
   - [Database SQL Queries to investigate Cybersecurity Incidents](https://github.com/cybercollin/SQLQueries)
+  - [Linux File Permissions Administration](https://github.com/cybercollin/LinuxFilePermissions)
   - [Symmetric and Asymmetric Encryption with OpenSSL and OpenPGP](https://github.com/cybercollin/UnderConstruction)
   - [Hashing and Public Key Infrastructure](https://github.com/cybercollin/UnderConstruction)
 
