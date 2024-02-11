@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Labs and Projects:</h2>
 
+- <b>Cyber Threat Intelligenece</b>
+  - [OpenCTI: Researching Malware and APT Groups](https://github.com/cybercollin/OpenCTI)
+
 - <b>Security Engineering</b>
   - [Risk Management Using Quantitative Analysis](https://github.com/cybercollin/RiskManagementQuantitativeAnalysis)
   - [Threat Modelling With MITRE ATT&CK Navigator](https://github.com/cybercollin/UnderConstruction)
