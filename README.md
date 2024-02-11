@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Labs and Projects:</h2>
 
-- <b>Cyber Threat Intelligenece</b>
+- <b>Cyber Threat Intelligence</b>
   - [OpenCTI: Researching Malware and APT Groups](https://github.com/cybercollin/OpenCTI)
 
 - <b>Security Engineering</b>
