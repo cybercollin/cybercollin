@@ -1,6 +1,23 @@
 <h1>Hi, I'm Collin! <br/><a href="https://www.linkedin.com/in/cybercollinlittle/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Labs and Projects:</h2>
+- <b>Network Security and Traffic Analysis</b>
+  - [OpenCTI: Researching Malware and APT Groups](https://github.com/cybercollin/OpenCTI)
+
+- <b>Endpoint Security and Monitoring</b>
+  - [OpenCTI: Researching Malware and APT Groups](https://github.com/cybercollin/OpenCTI)
+ 
+- <b>Security Information and Event Management</b>
+  - [OpenCTI: Researching Malware and APT Groups](https://github.com/cybercollin/OpenCTI)
+ 
+- <b>Digital Forensics and Incident Response</b>
+  - [OpenCTI: Researching Malware and APT Groups](https://github.com/cybercollin/OpenCTI)
+ 
+- <b>Phishing</b>
+  - [OpenCTI: Researching Malware and APT Groups](https://github.com/cybercollin/OpenCTI)
+ 
+
+
 
 - <b>Cyber Threat Intelligence</b>
   - [OpenCTI: Researching Malware and APT Groups](https://github.com/cybercollin/OpenCTI)
